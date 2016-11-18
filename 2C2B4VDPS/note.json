@@ -69,8 +69,8 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "",
-      "dateUpdated": "Nov 18, 2016 12:51:03 PM",
+      "text": "%python\nprint (2 * 100231114)",
+      "dateUpdated": "Nov 18, 2016 12:56:47 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -91,7 +91,41 @@
       },
       "jobName": "paragraph_1479469852928_-636602122",
       "id": "20161118-125052_1901566804",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "200462228\n"
+      },
       "dateCreated": "Nov 18, 2016 12:50:52 PM",
+      "dateStarted": "Nov 18, 2016 12:56:47 PM",
+      "dateFinished": "Nov 18, 2016 12:56:47 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "",
+      "dateUpdated": "Nov 18, 2016 12:56:58 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1479470207451_978495496",
+      "id": "20161118-125647_1360121115",
+      "dateCreated": "Nov 18, 2016 12:56:47 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
