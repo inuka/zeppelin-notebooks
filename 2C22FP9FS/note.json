@@ -1,0 +1,56 @@
+{
+  "paragraphs": [
+    {
+      "text": "",
+      "dateUpdated": "Nov 18, 2016 12:35:29 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1479468903127_-2045302997",
+      "id": "20161118-123503_494408707",
+      "dateCreated": "Nov 18, 2016 12:35:03 PM",
+      "dateStarted": "Nov 18, 2016 12:35:10 PM",
+      "status": "RUNNING",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Untitled Note 2",
+  "id": "2C22FP9FS",
+  "angularObjects": {
+    "2C4BV8P5V:shared_process": [],
+    "2C264PWVK:shared_process": [],
+    "2C35WG774:shared_process": [],
+    "2C4P1EXPF:shared_process": [],
+    "2C4VA6CRD:shared_process": [],
+    "2C4TFCCW9:shared_process": [],
+    "2C3TV2CM1:shared_process": [],
+    "2C4SQHY5J:shared_process": [],
+    "2C18RYD5U:shared_process": [],
+    "2C338QTZH:shared_process": [],
+    "2C2KYD6CU:shared_process": [],
+    "2C3GM6JRC:shared_process": [],
+    "2C2AF85DV:shared_process": [],
+    "2C3Z68JWU:shared_process": [],
+    "2C2GB9BYJ:shared_process": [],
+    "2BZXDNB97:shared_process": [],
+    "2C3X4QRAN:shared_process": [],
+    "2C1WA3EE3:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
