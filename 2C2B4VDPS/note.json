@@ -2,12 +2,12 @@
   "paragraphs": [
     {
       "text": "%python\nprint (\"hello world\")",
-      "dateUpdated": "Nov 18, 2016 12:45:14 PM",
+      "dateUpdated": "Nov 18, 2016 12:46:38 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
           "mode": "table",
-          "height": 300.0,
+          "height": 94.0,
           "optionOpen": false,
           "keys": [],
           "values": [],
@@ -15,7 +15,7 @@
           "scatter": {}
         },
         "enabled": true,
-        "editorMode": "ace/mode/python"
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
@@ -35,8 +35,8 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "",
-      "dateUpdated": "Nov 18, 2016 12:45:25 PM",
+      "text": "%python\nprint (2 * 100234)",
+      "dateUpdated": "Nov 18, 2016 12:50:52 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -57,7 +57,41 @@
       },
       "jobName": "paragraph_1479469514808_-45134148",
       "id": "20161118-124514_1975865",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "200468\n"
+      },
       "dateCreated": "Nov 18, 2016 12:45:14 PM",
+      "dateStarted": "Nov 18, 2016 12:50:52 PM",
+      "dateFinished": "Nov 18, 2016 12:50:52 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "",
+      "dateUpdated": "Nov 18, 2016 12:51:03 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1479469852928_-636602122",
+      "id": "20161118-125052_1901566804",
+      "dateCreated": "Nov 18, 2016 12:50:52 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
